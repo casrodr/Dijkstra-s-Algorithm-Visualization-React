@@ -2,6 +2,9 @@
 ## Use the controls to create a graph, set start and end nodes, and visualize Dijkstra's algorithm in action.
 
 Welcome to the React Dijkstra's Algorithm Visualization project! This web application allows users to visualize the famous Dijkstra's algorithm in action for finding the shortest path in a graph. 
+![NoPath](https://github.com/casrodr/Dijkstra-s-Algorithm-Visualization-React/assets/102768038/700db161-7a4b-4a5c-ab91-e195cc0e98d8)
+![PathFound](https://github.com/casrodr/Dijkstra-s-Algorithm-Visualization-React/assets/102768038/f749e334-2e89-4f0e-aa95-7415d2ab1294)
+
 
 ## Before you begin, make sure you have the following installed on your machine:
 
